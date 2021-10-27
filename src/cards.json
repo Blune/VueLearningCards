@@ -1,8 +1,16 @@
 {
     "cards": [
         {
-            "front": "Test front",
-            "back": "Test back"
+            "front": "Front of card 1",
+            "back": "Back of card 1"
+        },
+        {
+            "front": "Front of card 2",
+            "back": "Back of card 2"
+        },
+        {
+            "front": "Front of card 3",
+            "back": "Back of card 3"
         }
     ]
-}
+} 
